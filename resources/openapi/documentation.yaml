@@ -1,0 +1,8 @@
+openapi: "3.0.3"
+info:
+  title: "wakly_newsletter API"
+  description: "wakly_newsletter API"
+  version: "1.0.0"
+servers:
+- url: "https://wakly_newsletter"
+paths: {}
