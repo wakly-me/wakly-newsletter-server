@@ -4,6 +4,10 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### Swagger ###
+docs/
+resources/openapi/
+
 ### STS ###
 .apt_generated
 .classpath
